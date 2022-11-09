@@ -3,6 +3,7 @@
 [bypass_all]
 
 [proxy_list]
+(^|\.)docker\.io$
 (^|\.)docker\.com$
 (^|\.)javdb\.com$
 # Telegram IPs$
