@@ -3,6 +3,7 @@
 [bypass_all]
 
 [proxy_list]
+(^|\.)btbtt15\.com$
 (^|\.)docker\.io$
 (^|\.)docker\.com$
 (^|\.)javdb\.com$
