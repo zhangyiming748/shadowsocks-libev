@@ -1,10 +1,9 @@
 # gfw list rules for shadowsocks-libev $
 # updated on 2020-04-18 01:30:05$
 [bypass_all]
-(^|\.)btbtt15\.com$
-172.67.198.235
 
 [proxy_list]
+(^|\.)btbtt15\.com$
 (^|\.)docker\.io$
 (^|\.)docker\.com$
 (^|\.)javdb\.com$
