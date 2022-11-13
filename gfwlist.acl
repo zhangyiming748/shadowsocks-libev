@@ -7,6 +7,7 @@
 (^|\.)btbtt15\.com$
 (^|\.)docker\.io$
 (^|\.)docker\.com$
+(^|\.)jdbstatic\.com$
 (^|\.)javdb\.com$
 # Telegram IPs$
 149.154.167.99/32
