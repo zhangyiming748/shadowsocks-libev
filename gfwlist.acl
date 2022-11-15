@@ -3,6 +3,7 @@
 [bypass_all]
 
 [proxy_list]
+(^|\.)telegra.ph$
 (^|\.)protom\.me$
 (^|\.)btbtt15\.com$
 (^|\.)docker\.io$
@@ -10,6 +11,7 @@
 (^|\.)jdbstatic\.com$
 (^|\.)javdb\.com$
 # Telegram IPs$
+199.59.149.203/32
 149.154.167.99/32
 149.154.175.10/32
 149.154.167.40/32
