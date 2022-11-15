@@ -3,6 +3,7 @@
 [bypass_all]
 
 [proxy_list]
+(^|\.)f95zone.com$
 (^|\.)telegra.ph$
 (^|\.)protom\.me$
 (^|\.)btbtt15\.com$
