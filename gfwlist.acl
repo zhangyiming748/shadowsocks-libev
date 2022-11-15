@@ -3,7 +3,11 @@
 [bypass_all]
 
 [proxy_list]
+<<<<<<< HEAD
 (^|\.)telegra.ph$
+=======
+(^|\.)appstorrent.ru$
+>>>>>>> 392cf3ed280af439777527773f9124b109124f32
 (^|\.)protom\.me$
 (^|\.)btbtt15\.com$
 (^|\.)docker\.io$
