@@ -3,10 +3,13 @@
 [bypass_all]
 
 [proxy_list]
+(^|\.)q1cloud.xyz$
+(^|\.)q1travel.cloud$
 (^|\.)996flh.com$
 (^|\.)sublimemerge.com$
 (^|\.)sublimetext.com$
 (^|\.)f95zone.com$
+(^|\.)f95zone.to$
 (^|\.)telegra.ph$
 (^|\.)protom\.me$
 (^|\.)btbtt15\.com$
