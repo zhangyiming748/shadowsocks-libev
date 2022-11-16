@@ -18,6 +18,9 @@
 (^|\.)jdbstatic\.com$
 (^|\.)javdb\.com$
 (^|\.)appstorrent.ru$
+# sourceforge.net
+(^|\.)sourceforge.net$
+104.18.10.128/32
 # Telegram IPs$
 199.59.149.203/32
 149.154.167.99/32
