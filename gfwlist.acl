@@ -3,6 +3,9 @@
 [bypass_all]
 
 [proxy_list]
+pixeldrain.com$
+f95zone.to$
+(^|\.)pixeldrain.com$
 (^|\.)q1cloud.xyz$
 (^|\.)q1travel.cloud$
 (^|\.)996flh.com$
