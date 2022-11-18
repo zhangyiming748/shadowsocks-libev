@@ -5,6 +5,8 @@
 [proxy_list]
 pixeldrain.com$
 f95zone.to$
+anonfiles.com$
+(^|\.)anonfiles.com$
 (^|\.)pixeldrain.com$
 (^|\.)q1cloud.xyz$
 (^|\.)q1travel.cloud$
