@@ -1,7 +1,7 @@
 # gfw list rules for shadowsocks-libev $
 # updated on 2020-04-18 01:30:05$
 [bypass_all]
-
+192.168.1.5/32
 [proxy_list]
 pixeldrain.com$
 f95zone.to$
