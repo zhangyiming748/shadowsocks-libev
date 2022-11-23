@@ -1,9 +1,33 @@
 # gfw list rules for shadowsocks-libev $
 # updated on 2020-04-18 01:30:05$
 [bypass_all]
-
+192.168.1.5/32
 [proxy_list]
+pixeldrain.com$
+jetbrains.com$
+f95zone.to$
+anonfiles.com$
+mixdrop.co$
+uploadhaven.com$
+workupload.com$
+files.fm$
+(^|\.)jetbrains.com$
+account.jetbrains.com$
+(^|\.)files.fm$
+(^|\.)dp.ua$
+(^|\.)mxdcontent.net$
+(^|\.)workupload.com$
+(^|\.)uploadhaven.com$
+(^|\.)mixdrop.co
+(^|\.)anonfiles.com$
+(^|\.)pixeldrain.com$
+(^|\.)q1cloud.xyz$
+(^|\.)q1travel.cloud$
+(^|\.)996flh.com$
+(^|\.)sublimemerge.com$
+(^|\.)sublimetext.com$
 (^|\.)f95zone.com$
+(^|\.)f95zone.to$
 (^|\.)telegra.ph$
 (^|\.)protom\.me$
 (^|\.)btbtt15\.com$
@@ -12,7 +36,9 @@
 (^|\.)jdbstatic\.com$
 (^|\.)javdb\.com$
 (^|\.)appstorrent.ru$
-(^|\.)yuanacg.com$
+# sourceforge.net
+(^|\.)sourceforge.net$
+104.18.10.128/32
 # Telegram IPs$
 199.59.149.203/32
 149.154.167.99/32
