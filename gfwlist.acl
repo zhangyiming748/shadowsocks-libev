@@ -3,6 +3,7 @@
 [bypass_all]
 
 [proxy_list]
+(^|\.)mengzhan17.com$
 pixeldrain.com$
 jetbrains.com$
 f95zone.to$
