@@ -5,6 +5,7 @@
 [proxy_list]
 (^|\.)mengzhan17.com$
 pixeldrain.com$
+(^|\.)steampowered.com$
 jetbrains.com$
 f95zone.to$
 greasyfork.org$
