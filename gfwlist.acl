@@ -5,6 +5,7 @@
 [proxy_list]
 (^|\.)missav.com$
 (^|\.)mengzhan17.com$
+(^|\.)protonmail.com$
 pixeldrain.com$
 (^|\.)steampowered.com$
 jetbrains.com$
