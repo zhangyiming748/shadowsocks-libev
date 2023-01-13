@@ -3,12 +3,15 @@
 [bypass_all]
 
 [proxy_list]
-(^|\.)steamos.cloud$
+(^|\.)googleapis.com
+(^|\.)missav.com$
 (^|\.)mengzhan17.com$
+(^|\.)protonmail.com$
 pixeldrain.com$
 (^|\.)steampowered.com$
 jetbrains.com$
 f95zone.to$
+(^|\.)ganjingworld.com$
 greasyfork.org$
 (^|\.)winehq.org$
 (^|\.)store.rg-adguard.net$
@@ -62,6 +65,7 @@ account.jetbrains.com$
 (^|\.)ak.epicgames.com$
 (^|\.)live.use1a.on.epicgames.com$
 (^|\.)store.epicgames.com$
+23.225.50.116/32
 # Telegram IPs$
 199.59.149.203/32
 149.154.167.99/32
