@@ -3,7 +3,8 @@
 [bypass_all]
 
 [proxy_list]
-(^|\.)googleapis.com
+(^|\.)steamos.cloud$
+(^|\.)googleapis.com$
 (^|\.)missav.com$
 (^|\.)mengzhan17.com$
 (^|\.)protonmail.com$
