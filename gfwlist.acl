@@ -3,6 +3,7 @@
 [bypass_all]
 
 [proxy_list]
+(^|\.)steamos.cloud$
 (^|\.)mengzhan17.com$
 pixeldrain.com$
 (^|\.)steampowered.com$
