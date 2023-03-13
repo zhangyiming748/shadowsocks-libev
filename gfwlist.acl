@@ -3,6 +3,7 @@
 [bypass_all]
 
 [proxy_list]
+(^|\.).openai.com$
 (^|\.)mypikpak.com$
 (^|\.)steamos.cloud$
 (^|\.)googleapis.com$
